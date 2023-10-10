@@ -1,10 +1,10 @@
 ## 실시간 채팅 Web Socket Server
 
-![Alt text](image-1.png)
+![image-1.png](https://github.com/YehyeokBang/Chat-Web/blob/main/image-1.png)
 
 카카오톡 서버가 먹통되었을 때 사용하는 우리만의 아지트
 
-![Alt text](image.png)
+![image-1.png](https://github.com/YehyeokBang/Chat-Web/blob/main/image.png)
 
 - Web Socket을 이용한 실시간 채팅
 - 사용자 이름 중복 불가
